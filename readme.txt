@@ -1,3 +1,6 @@
+olá bem vindo a 2 aula
+
+
 O que é Git:
 
 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software,
